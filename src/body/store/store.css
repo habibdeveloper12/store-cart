@@ -1,0 +1,15 @@
+.store{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  
+}
+.main{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.card-item{
+background-color: burlywood;
+display: sticky;
+
+
+}
